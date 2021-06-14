@@ -2,7 +2,7 @@
 - 👀 I’m interested in making mods for minecraft in java and apps in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on not anything at the moment
-- 📫 How to reach me sircumference2007@gmail.com :D
+- 📫  dm me to reach me :D
 
 <!---
 hydronuke69/hydronuke69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
